@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body {
+    height: 100%;
+}
+
+.container {
+    display: flex;
+    grid-template-columns: 1fr 5fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
+
+header {
+    background-color: #ba99209c;
+ 
+    height: 100%;
+
+}
+
+.logo {
+    
+}
+.img-logo {
+    width: 250px;
+    border-radius: 55px;
+    padding: 20px;
+}
