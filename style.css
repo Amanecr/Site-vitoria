@@ -15,7 +15,6 @@ html,body {
 
 header {
     background-color: #ba99209c;
- 
     height: 100%;
 
 }
@@ -23,6 +22,7 @@ header {
 .logo {
     
 }
+
 .img-logo {
     width: 250px;
     border-radius: 55px;
